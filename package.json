@@ -1,0 +1,22 @@
+{
+  "name": "ifplayer",
+  "version": "0.0.1",
+  "description": "simple interactive fiction player",
+  "keywords": ["interative fiction"],
+  "private": false,
+  "bin": {
+    "ifplayer" : "./bin/ifplayer.js"
+  },
+  "dependencies": {
+    "ifvms": "*",
+    "optimist": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jedi4ever/ifplayer"
+  },
+  "author": {
+    "name": "Patrick Debois",
+    "email": "Patrick.Debois@jedi.be"
+  }
+}
