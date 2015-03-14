@@ -7,6 +7,7 @@
   "bin": {
     "ifplayer" : "./bin/ifplayer.js"
   },
+  "main": "lib/ifplayer.js",
   "dependencies": {
     "ifvms": "*",
     "optimist": "*"
